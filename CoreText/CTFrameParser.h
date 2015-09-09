@@ -15,4 +15,6 @@
 
 + (CoreTextData *)parseContent:(NSString *)content config:(CTFrameParserConfig*)config;
 
++ (NSDictionary *)attributeWithConfig:(CTFrameParserConfig *)config;
+
 @end

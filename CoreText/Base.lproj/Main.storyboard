@@ -13,7 +13,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" id="ryi-VD-tyd" customClass="CoreTextView">
-                                <rect key="frame" x="58" y="110" width="204" height="347"/>
+                                <rect key="frame" x="58" y="20" width="204" height="347"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.93333333330000001" green="0.33725490200000002" blue="0.3294117647" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
